@@ -157,21 +157,6 @@ py test.py
 
 This code is distributed under MIT LICENSE
 
-## Citation
+## 参考&引用
 
-[地址](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html)
-
-```
-@ARTICLE{7553523, 
-author={K. Zhang and Z. Zhang and Z. Li and Y. Qiao}, 
-journal={IEEE Signal Processing Letters}, 
-title={Joint Face Detection and Alignment Using Multitask Cascaded Convolutional Networks}, 
-year={2016}, 
-volume={23}, 
-number={10}, 
-pages={1499-1503}, 
-keywords={Benchmark testing;Computer architecture;Convolution;Detectors;Face;Face detection;Training;Cascaded convolutional neural network (CNN);face alignment;face detection}, 
-doi={10.1109/LSP.2016.2603342}, 
-ISSN={1070-9908}, 
-month={Oct},}
-```
+[模型论文地址](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html)
