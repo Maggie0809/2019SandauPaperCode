@@ -1,8 +1,5 @@
 .DS_Store
-front-web/node_modules
-backend/venv
-front-web/dist
-/paper tmp
+code/mtcnn/venv
 
 # local env files
 .env.local
