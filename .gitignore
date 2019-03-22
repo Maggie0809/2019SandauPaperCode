@@ -1,5 +1,6 @@
 .DS_Store
 code/mtcnn/venv
+code/front-web/node_modules
 
 # local env files
 .env.local
