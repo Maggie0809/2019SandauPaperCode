@@ -21,6 +21,7 @@
                     { path: '/img-face', navItem: '图片检测'},
                     { path: '/about', navItem: '论文&系统简介'},
                     { path: 'thanks', navItem: '致谢'},
+                    { path: '/feedback', navItem: '问题&反馈'}
                 ]
             }
         }
