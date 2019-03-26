@@ -1,4 +1,4 @@
-# tensorflow-MTCNN
+# MTCNN
 ## 模型理解
 [MTCNN](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html)是目前比较流行的人脸检测方法，通过人脸检测可以进行更精准的人脸识别。模型主要通过PNet，RNet，ONet三个网络级联，一步一步精调来对人脸进行更准确的检测。论文中的模型图如下：<br>
 ![](https://github.com/LeslieZhoa/tensorflow-MTCNN/blob/master/output/model1.png)<br>
