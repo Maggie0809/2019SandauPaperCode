@@ -14,7 +14,7 @@
 
 #### 后端
 
-使用Python Flask 框架开发,
+使用Python Flask 框架开发, [这里是详情](./code/backend/Aboout.md)
 
 #### 检测模型
 

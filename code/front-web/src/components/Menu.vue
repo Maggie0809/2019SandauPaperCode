@@ -17,7 +17,7 @@
             return {
                 navList:[
                     { path: 'project', navItem: '2019Sandau 实时人脸检测系统'},
-                    { path: '/video-face', navItem: '实时视频检测'},
+                    // { path: '/video-face', navItem: '实时视频检测'},
                     { path: '/img-face', navItem: '图片检测'},
                     { path: '/about', navItem: '论文&系统简介'},
                     { path: 'thanks', navItem: '致谢'},
