@@ -13,12 +13,7 @@
         components: {
             Menu,
         },
-        //计算属性
         computed: {
-            // ...mapGetters({
-            //     sidebar: 'sidebar',
-            //     breadcrumbItems: 'breadcrumbItems',
-            // })
         },
         data() {
             return {}
